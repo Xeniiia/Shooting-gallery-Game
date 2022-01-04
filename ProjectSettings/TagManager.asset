@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: wave1(up)
+    uniqueID: 3771799157
+    locked: 0
+  - name: wave2
+    uniqueID: 953057773
+    locked: 0
+  - name: wave3
+    uniqueID: 1329957499
+    locked: 0
+  - name: wave4
+    uniqueID: 439105639
+    locked: 0
+  - name: wave5
+    uniqueID: 2968768851
+    locked: 0
+  - name: wave6(down)
+    uniqueID: 1774141253
+    locked: 0
+  - name: Curtains
+    uniqueID: 4082473837
+    locked: 0
+  - name: Bonuses
+    uniqueID: 2923902781
+    locked: 0
